@@ -10,4 +10,6 @@ public class MyHomePage {
 
 
     //more things for home page
+
+    //footer
 }
